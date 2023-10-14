@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="happy_birthday_text">Happy Birthday Sam!</string>
+    <string name="signature_text">From Putin</string>
+    <string name="message_actual">All tasks completed</string>
+    <string name="message_extra">Nice work!</string>
+</resources>
